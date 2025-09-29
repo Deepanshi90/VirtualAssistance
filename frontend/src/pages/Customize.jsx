@@ -1,7 +1,7 @@
 import React, { use, useRef, useState } from 'react'
 import Card from '../components/Card'
 import { useContext } from 'react'
-import { userDataContext } from '../context/userContext';
+import { userDataContext } from '../context/UserContext';
 import image1 from '../assets/image1.png'
 import image2 from '../assets/image2.jpg'
 import image3 from '../assets/authBg.png'
